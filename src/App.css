@@ -1,0 +1,33 @@
+.background {
+  background-color: #FFB732;
+  text-align: center;
+  height: 800px;
+  margin-top: 30px;
+  border-radius: 10%;
+}
+
+.text {
+  margin-top: 10%;
+}
+
+.title {
+  font-family: 'Bungee Inline', cursive;
+  font-size: 80px;
+  letter-spacing: 2px;
+
+}
+
+.header {
+  font-family: 'Baloo Bhaina', cursive;
+  font-size: 40px;
+
+}
+
+.weather {
+  margin: 20px;
+  margin-top: 30px;
+  font-family: 'Handlee', cursive;
+  font-weight: 10px;
+  font-size: 40px;
+
+}
